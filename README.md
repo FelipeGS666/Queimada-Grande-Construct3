@@ -11,3 +11,20 @@ Criar um jogo funcional utilizando o limite de 50 eventos da versão gratuita do
 
 Autores:
 Felipe Gomes, Davi Carbone, Laura Inácio.
+## Imagens
+
+### Menu
+
+![Menu](Menu.png)
+
+### Cutscene
+
+![Cutscene](Cutscene1.png)
+
+### Gameplay
+
+![Gameplay](Fase2.png)
+
+### Fase Final
+
+![Fase Final](FaseFinal.png)
